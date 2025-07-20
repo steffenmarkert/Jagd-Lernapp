@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "text": "Welche Tierart gehört zum Schalenwild?",
+    "answers": [
+      "Feldhase",
+      "Reh",
+      "Fuchs",
+      "Dachs"
+    ],
+    "correct": [
+      1
+    ],
+    "group": "Wildarten"
+  },
+  {
+    "id": 2,
+    "text": "Welche Waffe wird üblicherweise zur Schwarzwildjagd eingesetzt?",
+    "answers": [
+      "Flinte",
+      "Büchse",
+      "Armbrust",
+      "Pistole"
+    ],
+    "correct": [
+      1
+    ],
+    "group": "Waffen"
+  }
+]
